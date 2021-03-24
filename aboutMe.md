@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /aboutMe/
 ---
 
 - 🔭 I’m a project manager in AI Research Lab of Samsung SDS Vietnam
